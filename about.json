@@ -1,0 +1,21 @@
+{
+  "name": "discourse-essential-theme",
+  "about_url": "",
+  "license_url": "",
+  "author": "Meghna",
+  "assets": {},
+  "color_schemes": {
+    "essential": {
+      "primary": "000000",
+      "secondary": "FDF8F5",
+      "tertiary": "266150",
+      "quaternary": "266150",
+      "header_background": "DDAF94",
+      "header_primary": "000000",
+      "highlight": "BFD4C3",
+      "danger": "da723c",
+      "love": "91091e"
+    }
+  },
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}
